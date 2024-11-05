@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MesesArreglos": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
